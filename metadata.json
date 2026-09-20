@@ -1,0 +1,6 @@
+{
+  "name": "Digital Thekedaar",
+  "description": "India's trusted construction and home services platform connecting skilled workers, contractors, and hirers with verified KYC profiles, real-time chat, and secure escrow milestone payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
